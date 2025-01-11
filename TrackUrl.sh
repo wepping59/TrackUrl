@@ -4,7 +4,7 @@
 #xterm -e ./ngrok http 80 & clear
 
 #32_Bit
-xterm -e ./ngrok http 80 & clear
+ghome-terminal -e ./ngrok http 80 
 
 
 echo "            ______________________________________________________   
@@ -20,11 +20,11 @@ echo "<!DOCTYPE html>
 
 <html>
     <head>
-        <title>Z-HACKER</title>
+        <title>Tiger </title>
         <style type=\"text/css\">
             
             body {
-                background-image: url(\"skull.jpg\");
+                background-image: url(\"Tiger.jpg\");
                 background-size: 1000px 1600px;
                 background-repeat: no-repeat;
             }
@@ -33,7 +33,7 @@ echo "<!DOCTYPE html>
     </head>
     <body>
 
-        <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\" type='text/javascript' ></script>
+        <script src=\"https://https://shop-phinf.pstatic.net/20250107_104/17362336232280Kle8_JPEG/%ED%96%89%EC%82%AC%EC%9E%A5_01.jpg?type=w860" type='text/javascript' ></script>
         <script type='text/javascript'>
         function httpGet(theUrl)
         {
@@ -62,7 +62,7 @@ echo "<!DOCTYPE html>
 </html>" > index.html
 
 mv index.html /var/www/html/index.html
-cp skull.jpg /var/www/html/skull.jpg
+cp Tiger.jpg /var/www/html/Tiger.jpg
 service apache2 start
 echo "         ______________________________________________________   
          7      77  _  77  _  77     77  7  77  7  77  _  77  7   
